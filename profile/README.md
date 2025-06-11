@@ -28,7 +28,7 @@
 우리는 모두 각자의 생활 방식에 맞는 최적의 주거 환경을 꿈꿉니다. 하지만 동네의 수많은 인프라 정보를 직접 비교하고, 나의 조건에 맞는 곳을 찾는 것은 시간과 노력이 많이 드는 일입니다.
 
 ### 💡 **`동네 Fit`이 이렇게 해결해 드립니다! (The Solution)**
-![Introduction](images/before_after.png)
+![Introduction](https://github.com/TownFit/.github/blob/main/images/before_after.png?raw=true)
 `동네 Fit`은 복잡한 정보 검색 과정을 없애고, **단 10초** 만에 당신에게 가장 적합한 동네를 찾아주는 스마트한 솔루션입니다.
 
 -   **간단한 설문:** 몇 가지 질문에 답하는 것만으로 추천 준비 끝!
@@ -68,7 +68,7 @@
 
 ## 🏛️ 시스템 아키텍처 (System Architecture)
 
-![System Architecture](images/architecture.png)
+![System Architecture](https://github.com/TownFit/.github/blob/main/images/architecture.png?raw=true)
 
 1.  **Frontend (React & Vercel)**
     -   사용자는 Vercel에 배포된 **React** 앱을 통해 서비스를 이용합니다.
@@ -98,7 +98,7 @@
 
 ## 🗄️ 데이터베이스 스키마 (Database Schema)
 
-![Database Schema](images/erd.png)
+![Database Schema](https://github.com/TownFit/.github/blob/main/images/erd.png?raw=true)
 
 -   **`users`**: 가입한 사용자 정보를 저장합니다.
 -   **`facility_types`**: '동물병원', '중학교' 등 인프라의 종류와 설명을 정의합니다.
